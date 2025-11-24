@@ -1,5 +1,5 @@
 # Proyecto Final – Página Web sobre Fórmula 1 usando solo HTML - Módulo 1
-# José Antonio Medina Ayala
+## José Antonio Medina Ayala
 
 Este proyecto es una página web básica creada con HTML como parte del proyecto final del módulo 1 de DEV F. 
 Aquí se aplican conceptos fundamentales como estructura semántica, títulos, párrafos, imágenes, enlaces, listas y formularios.
